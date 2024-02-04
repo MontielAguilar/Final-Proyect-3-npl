@@ -31,7 +31,7 @@ Thank you for exploring this project! If you have any questions or comments, fee
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-![Bandera de España](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png) `!speak`
+![Bandera de España](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png | width=20)
 # Proyecto de Detección de Descripciones Fraudulentas en Anuncios Inmobiliarios 🏠🕵️‍♂️
 
 ## Motivación del Proyecto 💡
