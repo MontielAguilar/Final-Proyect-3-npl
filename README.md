@@ -1,6 +1,6 @@
 # Real Estate Fraudulent Descriptions Detection Project 🏠🕵️‍♂️
 
-## Project Motivation 🤔💡
+## Project Motivation 💡
 
 ### Initial Reasons
 After conducting an initial analysis of home descriptions obtained through scraping, we identified suspicious patterns in certain listings. This discovery sparked our interest in addressing the issue of scams in the real estate sector more effectively.
@@ -31,10 +31,10 @@ Thank you for exploring this project! If you have any questions or comments, fee
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-(https://camo.githubusercontent.com/64da7a71e13b3faf621cb6fdfe16a0424241cff7afad090a611adbf120f47a36/68747470733a2f2f656d6f6a69746f6f6c2e636f6d2f696d672f747769747465722f7477656d6f6a692d31342e302f666c61672d737061696e2d323434372e706e67)
+![Bandera de España](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png)
 # Proyecto de Detección de Descripciones Fraudulentas en Anuncios Inmobiliarios 🏠🕵️‍♂️
 
-## Motivación del Proyecto 🤔💡
+## Motivación del Proyecto 💡
 
 ### Razones Iniciales
 Después de realizar un análisis inicial de las descripciones de viviendas obtenidas a través del scraping, identificamos patrones sospechosos en ciertos anuncios. Este hallazgo generó nuestro interés en abordar de manera más efectiva el problema de las estafas en el sector inmobiliario.
